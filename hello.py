@@ -7,14 +7,16 @@ Git + GitHub research development workflows.
 
 author: Your Name
 date created: 05/28/2026
+
+Edited: J. Gelina 05/28/2026
 """
 
 def main():
     """
-    Print a welcome mesage for the Git workflow activity.
+    Print a welcome message for the Git workflow activity.
     """
 
-    print("Welcom to the collaborative Git workflow activity!")
+    print("Welcome to the collaborative Git workflow activity")
 
 
 if __name__ == "__main__":
