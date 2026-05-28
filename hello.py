@@ -7,6 +7,7 @@ Git + GitHub research development workflows.
 
 author: Douglas Crawford
 date created: 05/28/2026
+edited: W. MacLeod 05/28/2026
 """
 
 """
