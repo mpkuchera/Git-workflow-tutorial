@@ -5,7 +5,7 @@ hello.py
 A tiny collaborative workflow exercise for practicing
 Git + GitHub research development workflows.
 
-author: Your Name
+author: Tony Mawiignen Mallen-Ntiador
 date created: 05/28/2026
 """
 
