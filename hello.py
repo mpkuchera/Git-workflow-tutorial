@@ -1,11 +1,10 @@
-```python
 """
 hello.py
 
 A tiny collaborative workflow exercise for practicing
 Git + GitHub research development workflows.
 
-author: Your Name
+author: Olivia
 date created: 05/28/2026
 """
 
@@ -19,4 +18,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
+
