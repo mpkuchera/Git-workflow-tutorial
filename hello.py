@@ -5,16 +5,16 @@ hello.py
 A tiny collaborative workflow exercise for practicing
 Git + GitHub research development workflows.
 
-author: Your Name
+author: Douglas Crawford
 date created: 05/28/2026
+edited: W. MacLeod 05/28/2026
 """
 
+"""
+Print a welcome mesage for the Git workflow activity.
+"""
 def main():
-    """
-    Print a welcome mesage for the Git workflow activity.
-    """
-
-    print("Welcom to the collaborative Git workflow activity!")
+    print("Welcome to the collaborative Git workflow activity!")
 
 
 if __name__ == "__main__":
