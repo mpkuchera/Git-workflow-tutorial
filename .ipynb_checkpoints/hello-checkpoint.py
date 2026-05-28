@@ -5,7 +5,6 @@ A tiny collaborative workflow exercise for practicing
 Git + GitHub research development workflows.
 
 author: Olivia
-author: Ken
 date created: 05/28/2026
 """
 
